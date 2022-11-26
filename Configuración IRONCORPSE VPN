@@ -1,0 +1,51 @@
+{
+  "Version": "1.0.2",
+  "ReleaseNotes": "nueva actualizacion",
+  "UrlUpdate": "",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "https://wa.me/50254754028",
+  "UrlTermos": "",
+  "CheckUser": " http://54.177.116.230:82/checkUser",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "CLONDFRONT CLARO",
+      "TYPE": "PREMIUM",
+      "FLAG": "us.png",
+      "ServerIP": "brazil.ironcorpseflare.tk",
+      "CheckUser": " http://54.177.116.230:82/checkUser",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "|☆CLARO🔴",
+      "FLAG": "claro",
+      "Payload": "GET wess://d9ow31b3j4ze0.cloudfront.net HTTP/1.1[crlf]Host: cdn.medallia.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "cdn.medallia.com",
+      "TlsIP": "cdn.medallia.com",
+      "ProxyIP": "cdn.medallia.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    
+    },
+    {
+        "Name": "|TIGO🔵|",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brazil.ironcorpseflare.tkcrlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ayuda.tigo.com.gt",
+      "TlsIP": "ayuda.tigo.com.gt",
+      "ProxyIP": "ayuda.tigo.com.gt",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
+}
