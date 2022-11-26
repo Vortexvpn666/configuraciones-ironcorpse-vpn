@@ -16,7 +16,7 @@
     {
       "Name": "CLONDFRONT CLARO",
       "TYPE": "PREMIUM",
-      "FLAG": "gt.png",
+      "FLAG": "us.png",
       "ServerIP": "brazil.ironcorpseflare.tk",
       "CheckUser": " http://54.177.116.230:82/checkUser",
       "ServerPort": "80",
