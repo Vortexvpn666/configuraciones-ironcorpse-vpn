@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.6",
   "ReleaseNotes": "nueva actualizacion GRÁCIAS POR USAR LOS SERVICIOS DE IRONCORPSE VPN",
   "UrlUpdate": "https://raw.githubusercontent.com/Vortexvpn666/configuraciones-ironcorpse-vpn/main/Configuraci%C3%B3n%20IRONCORPSE%20VPN",
   "Sms": "",
@@ -16,7 +16,7 @@
     {
       "Name": "CLONDFRONT CLARO",
       "TYPE": "PREMIUM",
-      "FLAG": "GT.png",
+      "FLAG": "gt.png",
       "ServerIP": "brazil.ironcorpseflare.tk",
       "CheckUser": " http://54.177.116.230:82/checkUser",
       "ServerPort": "80",
