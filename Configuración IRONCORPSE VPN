@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.3",
-  "ReleaseNotes": "nueva actualizacion se reparo tigo gt",
+  "Version": "1.0.4",
+  "ReleaseNotes": "nueva actualizacion GRÁCIAS POR USAR LOS SERVICIOS DE IRONCORPSE VPN",
   "UrlUpdate": "",
   "Sms": "",
   "EmailFeedback": "",
@@ -16,7 +16,7 @@
     {
       "Name": "CLONDFRONT CLARO",
       "TYPE": "PREMIUM",
-      "FLAG": "us.png",
+      "FLAG": "GT.png",
       "ServerIP": "brazil.ironcorpseflare.tk",
       "CheckUser": " http://54.177.116.230:82/checkUser",
       "ServerPort": "80",
