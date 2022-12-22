@@ -1,12 +1,12 @@
 {
-  "Version": "1.0.16",
-  "ReleaseNotes": "ATENCIÓN NUEVA!!! ACTUALIZACION SE CAMBIO EL SERVIDOR PARA UNA MEJOR CONECTIVIDAD SI TIENES PROBLEMA COM TU USUARIO COMINICATE CONMIGO 5475-4028  GRÁCIAS POR USAR LOS SERVICIOS DE IRONCORPSE VPN",
+  "Version": "1.0.7",
+  "ReleaseNotes": "nueva actualizacio!!!!!n GRÁCIAS POR USAR LOS SERVICIOS DE IRONCORPSE VPN",
   "UrlUpdate": "https://raw.githubusercontent.com/Vortexvpn666/configuraciones-ironcorpse-vpn/main/Configuraci%C3%B3n%20IRONCORPSE%20VPN",
   "Sms": "https://raw.githubusercontent.com/Vortexvpn666/configuraciones-ironcorpse-vpn/main/Configuraci%C3%B3n%20IRONCORPSE%20VPN",
-  "EmailFeedback": "oskr24bs@gmail.com",
+  "EmailFeedback": "",
   "UrlContato": "https://wa.me/50254754028",
   "UrlTermos": "",
-  "CheckUser": "http://44.195.7.185:83/checkUser",
+  "CheckUser": "http://52.60.234.216:83/checkUser",
   "Udp": [
     {
       "Porta": "7300"
@@ -17,8 +17,8 @@
       "Name": "CLONDFRONT CLARO",
       "TYPE": "PREMIUM",
       "FLAG": "us.png",
-      "ServerIP": "eu.mrsatan.tk",
-      "CheckUser": "http://http://44.195.7.185:83/checkUser",
+      "ServerIP": "brn.mrsatan.tk",
+      "CheckUser": "http://http://54.232.204.25:83/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
@@ -29,7 +29,7 @@
     {
       "Name": "|CLARO🔴",
       "FLAG": "claro",
-      "Payload": "GET wess://d29a88jpf9vo5z.cloudfront.net HTTP/1.1[crlf]Host: paquetes.miclaro.com.sv[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wess://d12btdrl2nkmlf.cloudfront.net HTTP/1.1[crlf]Host: paquetes.miclaro.com.sv[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "paquetes.miclaro.com.sv",
       "TlsIP": "paquetes.miclaro.com.sv",
       "ProxyIP": "paquetes.miclaro.com.sv",
@@ -40,9 +40,9 @@
     {
         "Name": "|TIGO🔵|",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ayuda.tigo.com.gt[crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /TebaN42/ HTTP/1.1[lf]Host: eu.mrsatan.tk[lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ayuda.tigo.com.gt[crlf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /TebaN42/ HTTP/1.1[lf]Host: brn.mrsatan.tk[lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
       "SNI": "ayuda.tigo.com.gt",
-      "TlsIP": "104.16.51.111",
+      "TlsIP": "ayuda.tigo.com.gt",
       "ProxyIP": "ayuda.tigo.com.gt",
       "ProxyPort": "80",
       "Info": "Proxy"
